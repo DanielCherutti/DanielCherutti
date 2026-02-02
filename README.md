@@ -74,16 +74,7 @@
 
 ### 📌 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-machado-739180180/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/daniel.tech)
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DanielCherutti&show_icons=true&theme=dark" alt="GitHub stats" />
-
-<img src="https://komarev.com/ghpvc/?username=DanielCherutti&color=blueviolet" alt="Profile views" />
-
-</div>
