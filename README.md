@@ -13,11 +13,11 @@
 
 ### 🚀 About me
 
-- 🔭 **Currently working on** — *your current project*
-- 🌱 **Learning** — *technologies you're studying*
-- 💬 **Ask me about** — *topics you like to talk about*
-- 📫 **How to reach me** — *your email or social*
-- ⚡ **Fun fact** — *something cool about you*
+- 🔭 **Currently working on** — *monitoring solutions, automation, and full-stack projects for businesses*
+- 🌱 **Learning** — *Kubernetes, cloud (AWS), and diving deeper into Go and .NET*
+- 💬 **Ask me about** — *development (Go, Python, Quasar, PHP, .NET), infra (Proxmox, VMware, Docker, Samba), backup (Veeam), and automation*
+- 📫 **How to reach me** — *[LinkedIn](https://linkedin.com/in/seu-perfil) · [Instagram @daniel.tech](https://instagram.com/daniel.tech) · [Website](https://danielcherutti.github.io/site-apresentacao/)*
+- ⚡ **Fun fact** — *enthusiastic about building solutions that bridge code and infrastructure, from deploy to VM*
 
 ---
 
