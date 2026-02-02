@@ -24,7 +24,7 @@
 ### 🛠️ Tech stack
 
 **Linguagens & Frameworks**
-<br>
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
@@ -43,7 +43,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Infra & DevOps**
-<br>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
@@ -62,7 +62,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 **Ferramentas & Plataformas**
-<br>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -80,10 +80,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielCherutti&show_icons=true&theme=dark" alt="Daniel Cherutti's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielCherutti&color=blueviolet" alt="Profile views" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=DanielCherutti&show_icons=true&theme=dark" alt="GitHub stats" />
+
+<img src="https://komarev.com/ghpvc/?username=DanielCherutti&color=blueviolet" alt="Profile views" />
+
+</div>
