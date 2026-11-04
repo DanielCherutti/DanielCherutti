@@ -6,17 +6,6 @@
 
 ---
 
-## About Me
-
-- 🔭 Estou trabalhando em **Filmavys** (plataforma de produção audiovisual), **Athos CRM** (SaaS para concessionárias) e **New Omni** (PABX / telefonia VoIP)
-- 👯 Aberto a colaborar em **SaaS multi-tenant**, **APIs NestJS**, **React/Next.js** e **integrações** (WhatsApp, redes sociais, OLX, SIP/FreeSWITCH)
-- 🤝 Busco ajuda / troca de ideia em **arquitetura de produto**, **billing** e **escala de workers** em produção
-- 🌱 Aprendendo mais sobre **IA aplicada a produto**, **observabilidade** e **DX com agentes**
-- 💬 Pergunte-me sobre **TypeScript**, **NestJS**, **Docker/AWS**, **telefonia SIP** e **produto B2B**
-- ⚡ Fun fact: construo sistemas reais para clientes (engenharia, mídia, telecom e automóveis) — do deploy ao detalhe do dialplan
-
----
-
 ## Tech stack
 
 <div align="center">
