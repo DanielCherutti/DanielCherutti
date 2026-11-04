@@ -17,18 +17,6 @@
 
 ---
 
-## Projetos em destaque
-
-| Projeto | O que é |
-| --- | --- |
-| **[Filmavys](https://filmavys.com.br)** | SaaS para produtoras: projetos, materiais, aprovações, redes sociais, WhatsApp (Baileys), reuniões (LiveKit) e billing |
-| **[Athos CRM](https://github.com/DanielCherutti/CRM-V1)** | CRM multi-tenant para concessionárias — funil, estoque, propostas, pós-venda e integração OLX |
-| **New Omni / FreeSWITCH** | Plataforma de telefonia Athostec: PABX, softphone, webphone, filas, gravações e integrações CRM |
-| **[Orçamento Pazini](https://github.com/DanielCherutti/orcamentopazini)** | Gestão de projetos e orçamentos de engenharia (multi-tenant, Next.js, Docker) |
-| **[monitoramento-telas](https://github.com/DanielCherutti/monitoramento-telas)** | Sistema de monitoramento de telas/agentes com deploy em servidor e HTTPS |
-
----
-
 ## Tech stack
 
 <div align="center">
