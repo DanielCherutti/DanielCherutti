@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=danielcherutti&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DanielCherutti&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy" />
+  <img src="https://raw.githubusercontent.com/DanielCherutti/DanielCherutti/trophy-output/trophy.svg" height="150" alt="trophy" />
 </div>
 
 <br/>
