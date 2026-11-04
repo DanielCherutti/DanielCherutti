@@ -15,20 +15,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate trophy card
-        uses: soulteary/github-profile-trophy-action@v1
-        with:
-          options: "username=${{ github.repository_owner }}&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
-          path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Prepare dist
+      - name: Download trophy SVG
         run: |
           mkdir -p dist
-          cp trophy.svg dist/trophy.svg
+          curl -fsSL "https://trophygithubreadmelang.cybee.dpdns.org/?username=${{ github.repository_owner }}&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" \
+            -o dist/trophy.svg
+          test -s dist/trophy.svg
+          grep -q "<svg" dist/trophy.svg
 
       - name: Push trophy.svg to trophy-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
